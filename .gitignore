@@ -1,0 +1,13 @@
+output_test/
+output_train/
+model/
+*/**/__pycache__
+*.pyc
+*/*.so*
+*/**/*.so*
+*/**/*.dylib*
+*~
+.idea
+q.log/*
+*.sw*
+*.0000*
