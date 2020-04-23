@@ -28,12 +28,15 @@
 VasNet is released under the MIT License (refer to the LICENSE file for details).
 
 ## Citing VasNet
-@inproceedings{2020vasnet,
-  title={Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Learning},
-  author={Wang, Yong and Ji, Mengqi and Jiang, Shengwei and Wang, Xukang and Wu, Jiamin and Duan, Feng and Fan, Jingtao and Huang, Laiqiang and Ma, Shaohua and Fang, Lu and Dai, Qionghai},
-  booktitle={Nature Machine Intelligence},
-  year={2020}
-}
+If you find VasNet useful in your research, please consider citing:
+
+    @inproceedings{nmi2020vasnet,
+    title={Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Learning},
+    author={Wang, Yong and Ji, Mengqi and Jiang, Shengwei and Wang, Xukang and Wu, Jiamin and Duan, Feng and Fan, Jingtao and Huang, Laiqiang and Ma, Shaohua and Fang, Lu and Dai, Qionghai},
+    journal={Nature Machine Intelligence},
+    year={2020},
+    type={Journal Article}
+    }
 
 ## Acknowledgments
 The reference code includes [CycleGAN](https://github.com/junyanz/CycleGAN), [DRIT](https://github.com/HsinYingLee/DRIT) and [Unsupervised Deblur](https://github.com/ustclby/Unsupervised-Domain-Specific-Deblurring).
