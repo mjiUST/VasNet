@@ -1,6 +1,7 @@
 # VasNet
 
-## 2020 Nature Machine Intelligence Paper 
+%## 2020 Nature Machine Intelligence Paper 
+## 2020 Paper 
 * **"Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Domain Transfer Learning"**
 * Authors: Yong Wang#, Mengqi Ji#, Shengwei Jiang#, Xukang Wang, Jiamin Wu, Feng Duan, Jingtao Fan, Laiqiang Huang, Shaohua Ma*, Lu Fang*, Qionghai Dai*
     -  (#): These authors contributed equally and ranked by coin-tossing.
