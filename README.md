@@ -9,7 +9,7 @@
 
 <p align="center"><img width="500" src="figures/Augment_vascular_disease_diagnosis.jpg"></p>
   
-**Fig.1**: Augment vascular disease diagnosis.
+**Fig.1**: **Augment vascular disease diagnosis.** We present the docters with explainable images, including both vascular structures and multi-dimensional features under different modalities, instead of treating deep learning as a "black box" for 0 or 1 diagnosis.
 
 <p align="center"><img width="500" src="figures/VasNet.jpg"></p>
   
