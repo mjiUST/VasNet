@@ -1,10 +1,19 @@
 # VasNet
 
-## 2020 Paper 
-* **"Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Domain Transfer Learning"**
+ 
+* **2020 Nature Machine Intelligence**, [Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Domain Transfer Learning](https://www.nature.com/articles/s42256-020-0188-z)
 * Authors: Yong Wang#, Mengqi Ji#, Shengwei Jiang#, Xukang Wang, Jiamin Wu, Feng Duan, Jingtao Fan, Laiqiang Huang, Shaohua Ma*, Lu Fang*, Qionghai Dai*
     -  (#): These authors contributed equally and ranked by coin-tossing.
     -  (*): Corresponding authors.
+
+
+<p align="center"><img width="500" src="figures/Augment_vascular_disease_diagnosis.jpg"></p>
+  
+**Fig.1**: Augment vascular disease diagnosis.
+
+<p align="center"><img width="500" src="figures/VasNet.jpg"></p>
+  
+**Fig.2**: **The augmentation principle of vascular disease diagnosis.** VasNet learns the image-to-image mapping between two unpaired image domains: raw vascular observations corrupted by scattering, aberrations or non-uniform noises and the segmentation of retinal vascular images. It extracts the vascular topology, colour-codes the blood flow dynamics and unveils the spatiotemporal illumination of regions of interest, examines the pathological features and presents suspicions in contrasting colours, and discovers new diagnostic features and suggests the probability of a disease occurrence.
 
 
 ## Pytorch implementation
@@ -29,6 +38,8 @@ VasNet is released under the MIT License (refer to the LICENSE file for details)
 
 ## Citing VasNet
 If you find VasNet useful in your research, please consider citing:
+
+    Wang, Y., Ji, M., Jiang, S. et al. Augmenting vascular disease diagnosis by vasculature-aware unsupervised learning. Nat Mach Intell 2, 337–346 (2020). https://doi.org/10.1038/s42256-020-0188-z
 
     @inproceedings{nmi2020vasnet,
     title={Augmenting Vascular Disease Diagnosis by Vasculature-aware Unsupervised Learning},
